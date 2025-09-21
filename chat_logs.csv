@@ -1,0 +1,26 @@
+what is soil,[Future AI Reply] This will be answered by an AI model in the final version.
+what is black soil,"Sorry, AI is not available right now. (
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+)"
+What is red soil?,"Sorry, AI is not available right now. (
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+)"
+What is red soil?,"Sorry, AI is not available right now. (Error code: 401 - {'error': {'message': 'Incorrect API key provided: YOUR_OPE*******_KEY. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}})"
+what is red soil?,"Sorry, AI is not available right now. (Error code: 404 - {'error': {'message': 'The model `gpt-4` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}})"
+what is soil?,"Sorry, AI is not available right now. (Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}})"
+what is soil?,"Soil is the top layer of the earth where plants grow, composed of minerals, organic matter, air, and water."
+i am a farmer from odisha. what crops should i grow here?,"[Simulated AI Reply] I can help with crops, soil, fertilizer, and general agriculture guidance. Please ask a specific question about farming or crops."
